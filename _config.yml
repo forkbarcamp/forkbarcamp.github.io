@@ -30,7 +30,7 @@ safe:        true
 host:        0.0.0.0
 port:        4000
 baseurl:     /
-url:         http://suncharge.me
+url:         http://forkbarcamp.com
 lsi:         false
 
 maruku:
