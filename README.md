@@ -1,4 +1,1 @@
-forkbarcamp.github.io
-=====================
-
-The magic behind forkbarcamp.com
+# The Magic Behind ForkbarCamp.com

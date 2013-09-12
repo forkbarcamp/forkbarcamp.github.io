@@ -1,0 +1,8 @@
+/* ForkbarCamp.com has one simple goal: Fork it, share it... do it... */
+/* ForkbarCamp.com */
+/* humanstxt.org */
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: jQuery, Orbit, Reveal
+  Software: Sublime Text 2, Git, SASS, Compass, Zurb-Foundation
